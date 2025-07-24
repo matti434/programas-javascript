@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: red;
+}
+.contenedor-principal{
+  height: 60vh;
+}
+ul{
+ list-style: none;
+ text-align: center;
+}
+li{
+    margin: 10px 0;
+}
