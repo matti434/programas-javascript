@@ -28,13 +28,12 @@ h1 {
 button {
   height: 150px;
   width: 150px;
-  font-size: 40pxs;
+  font-size: 40px;
   color: black;
   font-weight: bold;
 }
 button:hover {
   cursor: pointer;
-  transform: scale(1.1);
 }
 .section2 {
   background-color: rgba(255, 255, 255, 0.2);
