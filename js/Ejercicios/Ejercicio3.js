@@ -1,0 +1,1 @@
+console.log(`Este es el mensaje desde el archivo externo de javaScript que tambien aparecera en la consola`);
